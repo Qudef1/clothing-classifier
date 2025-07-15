@@ -1,2 +1,2 @@
 # clothing-classifier
-ababaabab
+my clothing classifier and other projects
