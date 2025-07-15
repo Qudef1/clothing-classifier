@@ -1,2 +1,2 @@
 # clothing-classifier
-my clothing classifier and other projects
+my clothing classifier and other projects sss
